@@ -1,0 +1,27 @@
+.nav__center {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid lightgrey;    
+}
+
+.nav__center h1 {
+    color: blueviolet;
+
+}
+
+.nav__links {
+    width: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    text-decoration-line: none;    
+}
+
+.nav__list a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    background-color: #f1f5f8;
+}
