@@ -19,9 +19,15 @@
 
 .nav__list a {
     text-decoration: none;
-    color: black;
+    color:blueviolet;
+    ;
 }
 
 .container {
-    background-color: #f1f5f8;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
 }
+
+
