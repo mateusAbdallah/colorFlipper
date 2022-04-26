@@ -29,3 +29,15 @@
     border-radius: 10px;
 }
 
+.btn {
+    width: 8rem;
+    height: 2rem;
+    margin-left: 2rem;
+}
+
+.btn:hover {
+    text-transform: uppercase;
+    font-size: 18px;
+    transform: scale(1.5);
+    cursor: pointer;
+}
